@@ -1,0 +1,18 @@
+.card {
+    background-color: white;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.card__header {
+    padding: 15px 20px;
+    background-color: gray;
+    border-bottom: 2px solid orange;
+}
+.card__title {
+    padding: 15px 20px;
+}
+.card__text {
+    padding: 0 20px 25px;
+}
